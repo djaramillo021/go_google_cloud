@@ -1,7 +1,8 @@
 # go_google_cloud
 Example of library google datastore and storage
 
-If you are new in go 
+If you are new in golang 
+
 https://tour.golang.org/welcome/1
 
 
